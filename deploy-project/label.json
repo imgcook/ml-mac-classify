@@ -1,0 +1,6 @@
+{   
+    "button": 0,
+    "keyboard": 1,
+    "searchbar": 2,
+    "switch": 3
+}

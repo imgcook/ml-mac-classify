@@ -1,0 +1,10 @@
+node_modules/
+build/
+.idea/
+.DS_Store
+.happypack
+npm-debug.log
+yarn-error.log
+.vscode
+yarn.lock
+.jshintrc
