@@ -101,7 +101,7 @@ plt.title("Training Loss and Accuracy")
 plt.xlabel("Epoch #")
 plt.ylabel("Loss/Accuracy")
 plt.legend()
-plt.savefig('./output/cnn_plot.png')
+plt.savefig('./cnn_plot.png')
 
 # 保存模型
 print("------保存模型------")
