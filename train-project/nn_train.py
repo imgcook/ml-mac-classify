@@ -15,6 +15,8 @@ import pickle
 
 import os
 
+plt.switch_backend('agg')
+
 # 读取数据和标签
 print("------开始读取数据------")
 data = []
